@@ -25,7 +25,7 @@
 
 <?php
 
-// nii mitu korda trüki välja "palju", kui palju on vanust
+	// nii mitu korda trüki välja "palju", kui palju on vanust
 	for($i=0; $i<$age; $i=$i+1) {
 	
 		// see mida korratakse
@@ -39,7 +39,7 @@
 <?php
 
 	//kuupäev kujul: Friday, 11.09.2015
-
+	echo( date("l,j.m.Y e") );
 ?>
 
 
