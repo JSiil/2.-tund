@@ -39,7 +39,7 @@
 <?php
 
 	//kuupäev kujul: Friday, 11.09.2015
-	echo( date("l,j.m.Y e") );
+	echo( date("l,j.m.Y e h:i:s") );
 ?>
 
 
